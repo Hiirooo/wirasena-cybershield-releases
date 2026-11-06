@@ -1,0 +1,1 @@
+Wirasena CyberShield protected executable distribution only. Source code, tests, and internal configuration remain in private repository. Releases contain only verified protected binaries and SHA256SUMS.txt.
